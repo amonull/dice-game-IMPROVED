@@ -7,6 +7,7 @@ class roll:
         self.player_total = player_total
         self.player_score = player_score
 
+    def run(self):
         for x in range (5):
 
             first_roll = random.randint(1,6)

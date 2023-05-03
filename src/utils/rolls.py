@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import random
 
 def roll_for_one_player() -> int:
